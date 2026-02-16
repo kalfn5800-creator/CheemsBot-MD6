@@ -15,16 +15,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917736807522'] //ur owner number
-global.ownername = "4BDU" //ur owner name
+global.owner = ['967774772074'] //ur owner number
+global.ownername = "القرصان حٓمو٘ـᬽـدي𖤍.il ⃟🇾🇪  " //ur owner name
 global.ytname = "YT: W5 SONGS" //ur yt chanel name
 global.socialm = "GitHub: WH173 5P1D3R" //ur github or insta name
 global.location = "India, Kerala, Kochi" //ur location
 
 //bot bomdy 
 global.ownernomer = "917736807522" //ur number
-global.premium = ['917736807522'] //ur premium number
-global.botname = 'W5 BOT' //ur bot name
+global.premium = [''] //ur premium number
+global.botname = 'القرصان حٓمو٘ـᬽـدي𖤍.il ⃟🇾🇪' //ur bot name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@w5songs" //ur website to be displayed
 global.botscript = '' //script link
